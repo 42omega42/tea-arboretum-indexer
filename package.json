@@ -1,0 +1,32 @@
+{
+  "name": "tea-arboretum-indexer",
+  "version": "1.0.0",
+  "description": "Explore the vast tea-related data universe with Arboretum Indexer, a comprehensive indexing tool for organizing and accessing tea data structures.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/42omega42/tea-arboretum-indexer"
+  },
+  "author": "42omega42",
+  "license": "MIT",
+  "dependencies": {
+    "tea-arboretum-indexer": "1.0.0",
+    "tea-potbot-gen": "1.0.0",
+    "commander": "1.0.0",
+    "multer": "1.0.0",
+    "web3-react": "1.0.0",
+    "web3": "1.0.0",
+    "validator": "1.0.0",
+    "react-redux": "1.0.0",
+    "sinon": "1.0.0",
+    "debug": "1.0.0",
+    "mysql": "1.0.0",
+    "mongoose": "1.0.0",
+    "mocha": "1.0.0",
+    "dotenv": "1.0.0",
+    "request": "1.0.0"
+  }
+}
